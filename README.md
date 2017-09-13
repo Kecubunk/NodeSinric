@@ -14,6 +14,7 @@ Do this Step
    $ cd ssdp
    
 3. Install node -upnp-utils from https://www.npmjs.com/package/node-upnp-utils from Futomi
+
    $ npm install xml2js
    $ npm install node-upnp-utils
    
