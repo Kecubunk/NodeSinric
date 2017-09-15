@@ -10,8 +10,8 @@ void startHttpServer();
 void turnOnRelay();
 void turnOffRelay();
 
-const char* ssid = "ImperiumII";
-const char* password = "merdeka123";
+const char* ssid = "ssid";
+const char* password = "pass";
 
 unsigned int localPort = 1900;      // local port to listen on
 
